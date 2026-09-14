@@ -1,4 +1,4 @@
-# Pure FastAPI Task Manager API:
+# Pure FastAPI Task Manager API
 
 A minimal, zero-dependency data-store API built strictly using features from the official FastAPI documentation.
 
